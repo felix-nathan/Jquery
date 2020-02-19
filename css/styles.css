@@ -1,0 +1,25 @@
+.container img{
+    height: 800px;
+    width: 800px;
+}
+img {
+    display: none;
+}
+#warlus-showing img{
+    display: inline;
+}
+#warlus-hidden img{
+    display: none;
+}
+
+  .clickable {
+    cursor: pointer;
+    color: #0088cc;
+  }
+
+  .clickable:hover {
+    text-decoration: underline;
+  }
+  #warlus-showing {
+    display: none;
+  }
